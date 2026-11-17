@@ -1,3 +1,5 @@
+![Rex's Social Scraper](banner.png)
+
 # Rex's Social Scraper
 
 Ethical multi-platform social reader for 13 platforms. Public posts need no login. Your own account is available only when you add that platform's official API key.
