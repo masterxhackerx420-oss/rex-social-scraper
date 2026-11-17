@@ -4,7 +4,7 @@ Ethical multi-platform social reader for 13 platforms. Public posts need no logi
 
 No login bypass. No CAPTCHA bypass. No one else's private data.
 
-**Live page:** https://htmlpreview.github.io/?https://github.com/masterxhackerx420-oss/rex-social-scraper/blob/main/docs/index.html
+**Live page:** https://masterxhackerx420-oss.github.io/wolfsec/social/
 
 ## Install
 
